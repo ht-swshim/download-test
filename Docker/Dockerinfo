@@ -1,0 +1,8 @@
+target.file=file_download_core_framework/target/file_download_core_framework-0.0.1-SNAPSHOT.jar
+container.repository=swshim
+container.name=download-test
+container.tag=android-dev
+user=swshim
+password=tlatjddnjs83
+email=swshim@hdtel.co.kr
+
